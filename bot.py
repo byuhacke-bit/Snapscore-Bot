@@ -14,7 +14,7 @@ from random import random
 
 MY_USERNAME = "redin.68"
 MY_PASSWORD = "Pqmhz48c"
-# username and password
+# username and password.
 
 SLEEP_TIME = 1
 # sleep time between actions (multiplied by random number from 0-1 PLUS MIN_MULT)
